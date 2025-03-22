@@ -1,0 +1,1 @@
+# This is a card of add friend and remove friend
